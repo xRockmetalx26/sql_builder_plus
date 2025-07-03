@@ -1,0 +1,13 @@
+name: sql_builder_plus
+description: A type-safe SQL query builder for Dart featuring a fluent API, SQL injection protection, and comprehensive SELECT statement support. Build complex queries programmatically with runtime validation and proper parameter escaping.
+version: 1.0.0
+repository: https://github.com/xRockmetalx26/sql_builder_plus
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
